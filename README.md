@@ -14,7 +14,7 @@ To design and develop a PCB board for any specific application.
 
 ### G-CODE
 
-## Engraving Layer
+### Engraving Layer
 ```
 %
 ( CopperCAM - 29/07/2019 / ISO-Mill Output )
@@ -786,7 +786,7 @@ M05
 M02
 %
 ```
-## Drill 0.8
+### Drill 0.8
 ```
 %
 ( CopperCAM - 29/07/2019 / ISO-Mill Output )
